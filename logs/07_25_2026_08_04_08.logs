@@ -1,0 +1,5 @@
+[2026-07-25 08:04:08,226]  logger.py 24 root - INFO - This is INFO message
+[2026-07-25 08:04:08,226]  logger.py 25 root - WARNING - This is WARNING message
+[2026-07-25 08:04:08,226]  logger.py 26 root - ERROR - This is ERROR message
+[2026-07-25 08:04:08,226]  logger.py 27 root - CRITICAL - This is CRITICAL message
+[2026-07-25 08:04:08,226]  exception.py 45 root - ERROR - It gives Infinite Output

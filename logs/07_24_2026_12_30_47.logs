@@ -1,0 +1,5 @@
+[2026-07-24 12:30:47,833] 24 root - INFO - This is INFO message
+[2026-07-24 12:30:47,833] 25 root - WARNING - This is WARNING message
+[2026-07-24 12:30:47,833] 26 root - ERROR - This is ERROR message
+[2026-07-24 12:30:47,833] 27 root - CRITICAL - This is CRITICAL message
+[2026-07-24 12:30:47,833] 22 root - ERROR - Error occured in file [src/exception.py]and line no [32]with error message [division by zero]

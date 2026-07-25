@@ -1,0 +1,5 @@
+[2026-07-25 08:02:00,154] 24 root - INFO - This is INFO message
+[2026-07-25 08:02:00,154] 25 root - WARNING - This is WARNING message
+[2026-07-25 08:02:00,154] 26 root - ERROR - This is ERROR message
+[2026-07-25 08:02:00,154] 27 root - CRITICAL - This is CRITICAL message
+[2026-07-25 08:02:00,154] 45 root - ERROR - It gives Infinite Output
