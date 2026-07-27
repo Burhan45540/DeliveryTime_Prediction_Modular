@@ -1,0 +1,8 @@
+[2026-07-27 10:11:34,147]  logger.py 24 root - INFO - This is INFO message
+[2026-07-27 10:11:34,147]  logger.py 25 root - WARNING - This is WARNING message
+[2026-07-27 10:11:34,147]  logger.py 26 root - ERROR - This is ERROR message
+[2026-07-27 10:11:34,147]  logger.py 27 root - CRITICAL - This is CRITICAL message
+[2026-07-27 10:11:34,982]  data_transformation.py 28 root - INFO - Start making Numerical and categorical features
+[2026-07-27 10:11:34,982]  data_transformation.py 36 root - INFO - Pipeline has been started
+[2026-07-27 10:11:34,982]  data_transformation.py 54 root - INFO - Preprossor started
+[2026-07-27 10:11:34,982]  data_transformation.py 64 root - INFO - Preprossor complete

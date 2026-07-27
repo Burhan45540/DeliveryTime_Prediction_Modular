@@ -1,0 +1,5 @@
+[2026-07-27 08:49:23,695]  logger.py 24 root - INFO - This is INFO message
+[2026-07-27 08:49:23,696]  logger.py 25 root - WARNING - This is WARNING message
+[2026-07-27 08:49:23,696]  logger.py 26 root - ERROR - This is ERROR message
+[2026-07-27 08:49:23,696]  logger.py 27 root - CRITICAL - This is CRITICAL message
+[2026-07-27 08:49:24,870]  data_ingestion.py 23 root - INFO - Data Ingestion started

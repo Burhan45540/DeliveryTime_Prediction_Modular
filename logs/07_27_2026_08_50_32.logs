@@ -1,0 +1,7 @@
+[2026-07-27 08:50:32,047]  logger.py 24 root - INFO - This is INFO message
+[2026-07-27 08:50:32,047]  logger.py 25 root - WARNING - This is WARNING message
+[2026-07-27 08:50:32,047]  logger.py 26 root - ERROR - This is ERROR message
+[2026-07-27 08:50:32,047]  logger.py 27 root - CRITICAL - This is CRITICAL message
+[2026-07-27 08:50:32,611]  data_ingestion.py 23 root - INFO - Data Ingestion started
+[2026-07-27 08:50:32,621]  data_ingestion.py 33 root - INFO - Train-Test Split has started
+[2026-07-27 08:50:32,628]  data_ingestion.py 41 root - INFO - Train-Test Split Finished

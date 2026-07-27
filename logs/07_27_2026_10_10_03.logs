@@ -1,0 +1,4 @@
+[2026-07-27 10:10:03,207]  logger.py 24 root - INFO - This is INFO message
+[2026-07-27 10:10:03,207]  logger.py 25 root - WARNING - This is WARNING message
+[2026-07-27 10:10:03,207]  logger.py 26 root - ERROR - This is ERROR message
+[2026-07-27 10:10:03,208]  logger.py 27 root - CRITICAL - This is CRITICAL message
