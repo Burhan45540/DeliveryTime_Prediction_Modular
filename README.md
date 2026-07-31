@@ -170,7 +170,6 @@ Predicted Delivery Time:
 
 ![Prediction Result](images/prediction.png)
 
-
 # 🚀 Installation
 
 Clone the repository
