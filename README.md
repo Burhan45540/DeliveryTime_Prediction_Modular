@@ -155,27 +155,20 @@ Predicted Delivery Time:
 ```
 
 ---
-
 # 🖥 Application Preview
 
-### Home Page
+## 🏠 Home Page
 
-> *(Add screenshot here)*
+![Home Page](images/home.png)
 
-```
-images/home.png
+
 ```
 
 ---
 
-### Prediction Result
+## 🤖 Prediction Result
 
-> *(Add screenshot here)*
-
-```
-images/result.png
-```
-
+![Prediction Result](images/prediction.png)
 ---
 
 # 🚀 Installation
