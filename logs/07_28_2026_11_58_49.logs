@@ -1,0 +1,14 @@
+[2026-07-28 11:58:49,293]  logger.py 24 root - INFO - This is INFO message
+[2026-07-28 11:58:49,293]  logger.py 25 root - WARNING - This is WARNING message
+[2026-07-28 11:58:49,293]  logger.py 26 root - ERROR - This is ERROR message
+[2026-07-28 11:58:49,293]  logger.py 27 root - CRITICAL - This is CRITICAL message
+[2026-07-28 11:58:49,328]  data_ingestion.py 23 root - INFO - Data Ingestion started
+[2026-07-28 11:58:49,336]  data_ingestion.py 33 root - INFO - Train-Test Split has started
+[2026-07-28 11:58:49,342]  data_ingestion.py 41 root - INFO - Train-Test Split Finished
+[2026-07-28 11:58:49,343]  data_transformation.py 28 root - INFO - Start making Numerical and categorical features
+[2026-07-28 11:58:49,343]  data_transformation.py 36 root - INFO - Pipeline has been started
+[2026-07-28 11:58:49,343]  data_transformation.py 54 root - INFO - Preprossor started
+[2026-07-28 11:58:49,343]  data_transformation.py 64 root - INFO - Preprossor complete
+[2026-07-28 11:58:49,401]  model_trainer.py 110 root - INFO - Models and Params are initiated
+[2026-07-28 11:59:07,981]  model_trainer.py 119 root - INFO - Model evaluation completed
+[2026-07-28 11:59:07,983]  model_trainer.py 133 root - INFO - Best Model: Ridge, Best R2 Score: 0.833564642323671

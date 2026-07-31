@@ -1,0 +1,13 @@
+[2026-07-28 12:47:26,228]  logger.py 24 root - INFO - This is INFO message
+[2026-07-28 12:47:26,228]  logger.py 25 root - WARNING - This is WARNING message
+[2026-07-28 12:47:26,228]  logger.py 26 root - ERROR - This is ERROR message
+[2026-07-28 12:47:26,228]  logger.py 27 root - CRITICAL - This is CRITICAL message
+[2026-07-28 12:47:27,181]  _internal.py 97 werkzeug - WARNING -  * Debugger is active!
+[2026-07-28 12:47:27,188]  _internal.py 97 werkzeug - INFO -  * Debugger PIN: 120-954-945
+[2026-07-28 12:47:36,326]  _internal.py 97 werkzeug - INFO - 127.0.0.1 - - [28/Jul/2026 12:47:36] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-07-28 12:47:36,367]  _internal.py 97 werkzeug - INFO - 127.0.0.1 - - [28/Jul/2026 12:47:36] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-07-28 12:47:36,369]  _internal.py 97 werkzeug - INFO - 127.0.0.1 - - [28/Jul/2026 12:47:36] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-07-28 12:47:36,385]  _internal.py 97 werkzeug - INFO - 127.0.0.1 - - [28/Jul/2026 12:47:36] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=FP8GlkA3r9PZSUNUXfQk HTTP/1.1" 200 -
+[2026-07-28 12:47:36,405]  _internal.py 97 werkzeug - INFO - 127.0.0.1 - - [28/Jul/2026 12:47:36] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2026-07-28 12:47:41,735]  _internal.py 97 werkzeug - INFO - 127.0.0.1 - - [28/Jul/2026 12:47:41] "GET / HTTP/1.1" 200 -
+[2026-07-28 12:48:00,630]  _internal.py 97 werkzeug - INFO - 127.0.0.1 - - [28/Jul/2026 12:48:00] "POST /predict HTTP/1.1" 200 -

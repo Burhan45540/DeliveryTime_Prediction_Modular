@@ -1,0 +1,10 @@
+[2026-07-28 12:41:00,586]  logger.py 24 root - INFO - This is INFO message
+[2026-07-28 12:41:00,586]  logger.py 25 root - WARNING - This is WARNING message
+[2026-07-28 12:41:00,586]  logger.py 26 root - ERROR - This is ERROR message
+[2026-07-28 12:41:00,586]  logger.py 27 root - CRITICAL - This is CRITICAL message
+[2026-07-28 12:41:01,526]  _internal.py 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.69.162.169:5000
+[2026-07-28 12:41:01,526]  _internal.py 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2026-07-28 12:41:01,528]  _internal.py 97 werkzeug - INFO -  * Restarting with stat

@@ -1,0 +1,11 @@
+[2026-07-28 11:25:26,630]  logger.py 24 root - INFO - This is INFO message
+[2026-07-28 11:25:26,630]  logger.py 25 root - WARNING - This is WARNING message
+[2026-07-28 11:25:26,631]  logger.py 26 root - ERROR - This is ERROR message
+[2026-07-28 11:25:26,631]  logger.py 27 root - CRITICAL - This is CRITICAL message
+[2026-07-28 11:25:26,680]  data_ingestion.py 23 root - INFO - Data Ingestion started
+[2026-07-28 11:25:26,715]  data_ingestion.py 33 root - INFO - Train-Test Split has started
+[2026-07-28 11:25:26,724]  data_ingestion.py 41 root - INFO - Train-Test Split Finished
+[2026-07-28 11:25:26,724]  data_transformation.py 28 root - INFO - Start making Numerical and categorical features
+[2026-07-28 11:25:26,724]  data_transformation.py 36 root - INFO - Pipeline has been started
+[2026-07-28 11:25:26,724]  data_transformation.py 54 root - INFO - Preprossor started
+[2026-07-28 11:25:26,724]  data_transformation.py 64 root - INFO - Preprossor complete
