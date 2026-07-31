@@ -169,7 +169,7 @@ Predicted Delivery Time:
 ## 🤖 Prediction Result
 
 ![Prediction Result](images/prediction.png)
----
+
 
 # 🚀 Installation
 
