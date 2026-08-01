@@ -55,6 +55,12 @@ def predict_datapoint():
             prediction_text=f"Predicted Delivery Time: {prediction[0]:.2f} minutes"
         )
 
+@app.route("/routes")
+def routes():
+    return {
+        "routes": [str(rule) for rule in app.url_map.iter_rules()]
+    }
+
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", debug=True)
