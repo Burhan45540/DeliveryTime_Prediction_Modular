@@ -1,7 +1,7 @@
-pandas
-numpy
-scikit-learn
-dill
-Flask
-gunicorn
+scikit-learn==1.3.2
+numpy==1.24.4
+pandas==2.0.3
+Flask==3.0.3
+gunicorn==23.0.0
+dill==0.4.0
 -e .
